@@ -1,5 +1,5 @@
 # nest-config-poc
-POC de configuración de deploy por .env files en Nest.js. Uso de env-cmd en lugar de @nestjs/config.
+POC de configuración de npm run por .env files en Nest.js. Uso de env-cmd en lugar de @nestjs/config.
 
 ## development
 npm run start:dev
